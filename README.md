@@ -164,6 +164,3 @@ Download the weights from [here](https://pjreddie.com/media/files/yolov3.weights
 
    Use the `DataViz.ipynb` notebook to visualize the results and gain insights into the detection and clustering performance.
 
-### Contact
-
-For any inquiries or questions, please open an issue or contact [hendrikchiche@gmail.com].
